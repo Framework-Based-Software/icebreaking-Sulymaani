@@ -14,8 +14,9 @@
 🔹 **A Full-Stack Side Quest**  
 🔹 **A Few Other Things You’ll See Eventually**  
 
-## 📷 Image
-![pic](https://github.com/user-attachments/assets/8018b3a0-6655-4ea7-a6db-c2ffdc5f3298)
+## 📷 Img
+![pic](https://github.com/user-attachments/assets/e00aeb10-7cdc-46be-aa54-88000a7d9015)
 
-## GitHub Profile
-You can view my personalized GitHub profile [here](https://github.com/Sulymaani).
+## GitHub Profile 
+You can view my personalized GitHub profile [here]https://github.com/Sulymaani.
+
