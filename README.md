@@ -1,11 +1,21 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0MOLbOcH)
-# Introduction
-Hi! I'm [Your Name], a student in the Framework-Based Software Design and Development course. 
-I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
+# 👋 Hello, I'm [Your Name]!
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+🚀 **Master's Student in Software Engineering | Figuring Things Out**  
+💡 Writing code, breaking things, fixing them (sometimes). 
+
+## 🛠️ What I Mess Around With
+- Python, JavaScript
+- Frontend & Backend (depends on the day)
+- Databases & Cloud (when necessary)
+- GitHub (mostly pushing, sometimes pulling)
+
+## 📌 Current Projects
+🔹 **Something Django-related**  
+🔹 **A Full-Stack Side Quest**  
+🔹 **A Few Other Things You’ll See Eventually**  
+
+## 📷 Image
+![pic](https://github.com/user-attachments/assets/8018b3a0-6655-4ea7-a6db-c2ffdc5f3298)
 
 ## GitHub Profile
-
-You can view my personalized GitHub profile [here, insert link to your github profile]
-
+You can view my personalized GitHub profile [here](https://github.com/Sulymaani).
