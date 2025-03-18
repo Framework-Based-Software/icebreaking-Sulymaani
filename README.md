@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Saleban!
 
 🚀 **Master's Student in Software Engineering | Figuring Things Out**  
 💡 Writing code, breaking things, fixing them (sometimes). 
